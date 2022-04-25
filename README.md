@@ -6,11 +6,11 @@
 
 ## Instrucciones:
 
-1-	Debe tener instalado php 8, composer, mysql y nodejs
-2-	Una vez descargado el proyecto, acceda a la terminar de la carpeta
-3-	Ejecutar ‘Composer install’
-4-	Ejecutar ‘npm install && npm run dev’
-5-	Crear en mysql una base de datos llamada facturas
-6-	Configurar la base de datos en el archivo .env para la conexión (con las variables que llevan “DB_*”)
-7-	Ejecutar ‘php artisan migrate’
-8-	Ejecutar ‘php artisan serve’
+1.	Debe tener instalado php 8, composer, mysql y nodejs
+2.	Una vez descargado el proyecto, acceda a la terminar de la carpeta
+3.	Ejecutar ‘Composer install’
+4.	Ejecutar ‘npm install && npm run dev’
+5.	Crear en mysql una base de datos llamada facturas
+6.  Configurar la base de datos en el archivo .env para la conexión (con las variables que llevan “DB_*”)
+7.	Ejecutar ‘php artisan migrate’
+8.	Ejecutar ‘php artisan serve’
